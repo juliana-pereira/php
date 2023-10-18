@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    echo "arquivo em php";
+    echo "arquivo em php - teste aula 2";
     ?>
 </body>
 </html>
