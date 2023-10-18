@@ -1,0 +1,42 @@
+html,body{
+    font-family: Arial;
+    background-color: rgb(54, 51, 51);
+    color: black;
+    padding-bottom: 45%;
+}
+
+h1{
+    background-color: rgb(134, 182, 236);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font: 40px;
+    height: 60px;
+    width: 700px;
+    margin-left: 50px;
+}
+
+h2{
+    background-color: bisque;
+    margin: 20px;
+}
+
+p{
+    background-color:beige;
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
+
+#style1{
+    background-color: pink;
+}
+
+.style2{
+    background-color: burlywood;
+    font-size: 20px;
+}
+
+
+p{
+    background-color: rgb(182, 231, 182);
+}

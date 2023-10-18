@@ -1,0 +1,27 @@
+.body1{
+    background-color: red;
+    color: aliceblue;
+    padding: 20px;
+}
+
+.conteudo1{
+    background-color: black;
+    padding: 20px;
+    height: 40%;
+    text-align: center;
+    font-size: 70px;
+    padding-left: 40%;
+    padding-right: 20%;
+    width: 20%;
+    right: 20%;
+}
+
+.body2{
+    background-color: blue;
+    padding: 90px;
+}
+
+.body3{
+    background-color: yellow;
+    padding: 120px;
+}
